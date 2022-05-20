@@ -1,0 +1,19 @@
+h1 {
+    position:absolute;
+    bottom: 70%;
+    left: 40%;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+    font-size:50px;
+    font-weight: lighter;
+    
+}
+
+
+section-title {
+    color: rgb(0, 144, 144);
+}
+
+.sec2 {
+    margin-left: 90%;
+}
